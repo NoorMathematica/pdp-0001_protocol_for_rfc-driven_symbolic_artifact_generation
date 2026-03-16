@@ -23,8 +23,8 @@
   "_publication_type": "Protocol Specification",
   "_publication_location": "GitHub, Pastebin",
   "_urls": [
-	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON",
-	  "https://pastebin.com/235NEL8V"
+	  "https://github.com/NoorMathematica/pdp-0001_protocol_for_rfc-driven_symbolic_artifact_generation/blob/main/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON",
+	  "https://raw.githubusercontent.com/NoorMathematica/pdp-0001_protocol_for_rfc-driven_symbolic_artifact_generation/refs/heads/main/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON"
 	],
   "_objective": "Defines a structured, multi-stage process for generating high-fidelity code artifacts from canonical RFC/RFC-CORE documents and a generation specification, prioritizing semantic accuracy, architectural compliance, and traceable regenerability.",
 
