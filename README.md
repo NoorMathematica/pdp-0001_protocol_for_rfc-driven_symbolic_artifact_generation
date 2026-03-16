@@ -19,7 +19,7 @@ Or use the BibTeX Citation:
   title = {PDP-0001: Protocol for RFC-Driven Symbolic Artifact Generation},
   journal = {Noor Research Collective Archive},
   year = {2025},
-  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-006_binary_nature_of_reality/refs/heads/main/phys-core-006_the_binary_nature_of_reality.JSON},
+  note = {https://raw.githubusercontent.com/NoorMathematica/pdp-0001_protocol_for_rfc-driven_symbolic_artifact_generation/refs/heads/main/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON},
 }
 ```
 
